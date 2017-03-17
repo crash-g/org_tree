@@ -3,7 +3,7 @@ from setuptools import setup
 setup(name='org_tree',
       version='1.0',
       description='Draw org files as graphs',
-      url='http://github.com/storborg/funniest',
+      url='https://github.com/crash-g/org_tree',
       author='Gabriele Muciaccia',
       author_email='crash@inventati.org',
       license='MIT',
