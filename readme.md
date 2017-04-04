@@ -8,4 +8,5 @@ Download this repository and use
 ### Usage
 Just import the package and call _drawGraph_ passing to it the absolute path of an org file.
 > import org_tree as ot
+
 > ot.drawGraph("path/to/org/file.org", "file_encoding")
